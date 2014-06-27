@@ -30,7 +30,7 @@ return array(
                     'route'    => '/application',
                     'defaults' => array(
                         '__NAMESPACE__' => 'Application\Controller',
-                        'controller'    => 'Album',
+                        'controller'    => 'Index',
                         'action'        => 'index',
                     ),
                 ),
